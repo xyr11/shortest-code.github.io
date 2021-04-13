@@ -1,4 +1,6 @@
-# shortest-code.github.io
+# [shortest-code.github.io](https://xyr11.github.io/shortest-code.github.io/start.html)
+
+Main page: [https://xyr11.github.io/shortest-code.github.io/start.html](https://xyr11.github.io/shortest-code.github.io/start.html)
 
 Shortest code that I've done in our coding activity at school, as shown below:
 
@@ -22,5 +24,7 @@ Create two web pages in HTML and JavaScript with scripts that will do the follow
 
 + Timeliness
 
-## GitHub Pages link
-The live version can be found at [xyr11.github.io/shortest-code.github.io/start.html](https://xyr11.github.io/shortest-code.github.io/start.html) (completely butchered this repository lol)
+## GitHub Pages
+The live version can be found at [xyr11.github.io/shortest-code.github.io/start.html](https://xyr11.github.io/shortest-code.github.io/start.html)
+
+(I completely butchered this repository lol)
